@@ -31,6 +31,11 @@
 <p>This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
 <p>When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</p>
 
+<h4>Types Data</h4>
+<p>Among the types of Personal Data that this Application collects, by itself or through third parties, there are:</p>
+<p>unique device identifiers for advertising (Google Advertiser ID or IDFA, for example).</p>
+
+
 <h4>Tracking & Cookies Data</h4>
 <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
 <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
@@ -90,6 +95,13 @@
     </li>
             <li>
         <p><strong>Firebase</strong></p>
+        <p>Firebase is analytics service provided by Google Inc.</p>
+        <p>You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+        <p>We also encourage you to review the Google's policy for safeguarding your data: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
+    </li>
+    
+    <li>
+        <p><strong>Crashlytics</strong></p>
         <p>Firebase is analytics service provided by Google Inc.</p>
         <p>You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
         <p>We also encourage you to review the Google's policy for safeguarding your data: <a href="https://support.google.com/analytics/answer/6004245">https://support.google.com/analytics/answer/6004245</a>. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a></p>
